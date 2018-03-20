@@ -1,0 +1,5 @@
+int a,b;
+int a,c;
+//a,b,c
+       
+while while
