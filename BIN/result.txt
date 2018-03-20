@@ -1,0 +1,16 @@
+test1.txt,字符数：9
+
+test1.txt,单词数：2
+
+test1.txt,行数：1
+
+test1.txt,代码行/空行/注释行：1/0/0
+
+test2.txt,字符数：19
+
+test2.txt,单词数：1
+
+test2.txt,行数：1
+
+test2.txt,代码行/空行/注释行：1/0/0
+
